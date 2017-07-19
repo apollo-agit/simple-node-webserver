@@ -1,0 +1,25 @@
+{
+  "name": "simple-node-webserver",
+  "version": "1.0.0",
+  "description": "Web Server made with node and express for static file requets",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apollo-agit/simple-node-webserver.git"
+  },
+  "keywords": [
+    "web"
+  ],
+  "author": "Hambone",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/apollo-agit/simple-node-webserver/issues"
+  },
+  "homepage": "https://github.com/apollo-agit/simple-node-webserver#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
